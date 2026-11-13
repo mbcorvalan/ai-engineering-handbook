@@ -1,0 +1,14 @@
+# Local-only content (marked localOnly in _meta.json): not published
+capstone-technical-docs-copilot.md
+hireflow-part-1.md
+hireflow-part-2.md
+
+# Local index that links to the local-only capstones; README.md is the public index
+index.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
